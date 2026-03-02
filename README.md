@@ -1,62 +1,13 @@
-# Portfolio Documentation
+# My Portfolio
 
-## Project Description
-This portfolio showcases my work as a developer, highlighting various projects I have completed, my skills, and my professional journey.
+This project is built using **JavaScript** and utilizes the **GSAP** library for animations.
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
-- Express
-- MongoDB
+## Project Goals
+- Showcase personal projects and skills.
+- Provide a smooth and engaging user experience.
+- Highlight key achievements and background.
 
-## Features
-- Responsive design
-- Interactive UI
-- Project filtering
-- User authentication
-
-## Installation Instructions
-1. Clone the repository:
-   
-   ```bash
-   git clone https://github.com/khalid-arrazani/My-Portfolio.git
-   ```
-
-2. Navigate into the project directory:
-   
-   ```bash
-   cd My-Portfolio
-   ```
-
-3. Install dependencies:
-   
-   ```bash
-   npm install
-   ```
-
-4. Start the application:
-   
-   ```bash
-   npm start
-   ```
-
-## Project Structure
-```
-My-Portfolio/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   └── App.js
-├── public/
-├── package.json
-└── README.md
-```
-
-## Contact Information
-If you have any questions or want to get in touch, please reach out:
-- Email: khalid@example.com
-- LinkedIn: [khalid-arrazani](https://linkedin.com/in/khalid-arrazani)
-- GitHub: [khalid-arrazani](https://github.com/khalid-arrazani)
+## To Do
+- Add more projects to the portfolio.
+- Improve responsiveness for mobile devices.
+- Optimize performance for better loading times.
